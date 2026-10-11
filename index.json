@@ -2,5 +2,39 @@
   {
     "path": "images/68e6a64fb0e2e176de6dbb15c69a5e27e4424162ee7cd0c0be836a7dd7109c28.jpg",
     "url": "https://raw.githubusercontent.com/muzukiii/-/main/images/68e6a64fb0e2e176de6dbb15c69a5e27e4424162ee7cd0c0be836a7dd7109c28.jpg"
+  },
+  {
+    "type": "face",
+    "id": "264",
+    "data": {
+      "id": "264",
+      "raw": {
+        "faceIndex": 264,
+        "faceText": "/捂脸",
+        "faceType": 2,
+        "packId": null,
+        "stickerId": null,
+        "sourceType": null,
+        "stickerType": null,
+        "resultId": null,
+        "surpriseId": null,
+        "randomType": null,
+        "imageType": null,
+        "pokeType": null,
+        "spokeSummary": null,
+        "doubleHit": null,
+        "vaspokeId": null,
+        "vaspokeName": null,
+        "vaspokeMinver": null,
+        "pokeStrength": null,
+        "msgType": null,
+        "faceBubbleCount": null,
+        "oldVersionStr": null,
+        "pokeFlag": null,
+        "chainCount": null
+      },
+      "resultId": null,
+      "chainCount": null
+    }
   }
 ]
