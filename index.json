@@ -248,5 +248,39 @@
       "resultId": null,
       "chainCount": null
     }
+  },
+  {
+    "type": "face",
+    "id": "0",
+    "data": {
+      "id": "0",
+      "raw": {
+        "faceIndex": 0,
+        "faceText": null,
+        "faceType": 1,
+        "packId": null,
+        "stickerId": null,
+        "sourceType": null,
+        "stickerType": null,
+        "resultId": null,
+        "surpriseId": null,
+        "randomType": null,
+        "imageType": null,
+        "pokeType": null,
+        "spokeSummary": null,
+        "doubleHit": null,
+        "vaspokeId": null,
+        "vaspokeName": null,
+        "vaspokeMinver": null,
+        "pokeStrength": null,
+        "msgType": null,
+        "faceBubbleCount": null,
+        "oldVersionStr": null,
+        "pokeFlag": null,
+        "chainCount": null
+      },
+      "resultId": null,
+      "chainCount": null
+    }
   }
 ]
