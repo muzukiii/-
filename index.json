@@ -214,5 +214,39 @@
   {
     "path": "images/0ab71629fc856ec1b3144daf104cf05cbcbde490c623ab18384483b2b3c25d85.jpg",
     "url": "https://raw.githubusercontent.com/muzukiii/-/main/images/0ab71629fc856ec1b3144daf104cf05cbcbde490c623ab18384483b2b3c25d85.jpg"
+  },
+  {
+    "type": "face",
+    "id": "297",
+    "data": {
+      "id": "297",
+      "raw": {
+        "faceIndex": 297,
+        "faceText": "/拜谢",
+        "faceType": 2,
+        "packId": null,
+        "stickerId": null,
+        "sourceType": null,
+        "stickerType": null,
+        "resultId": null,
+        "surpriseId": null,
+        "randomType": null,
+        "imageType": null,
+        "pokeType": null,
+        "spokeSummary": null,
+        "doubleHit": null,
+        "vaspokeId": null,
+        "vaspokeName": null,
+        "vaspokeMinver": null,
+        "pokeStrength": null,
+        "msgType": null,
+        "faceBubbleCount": null,
+        "oldVersionStr": null,
+        "pokeFlag": null,
+        "chainCount": null
+      },
+      "resultId": null,
+      "chainCount": null
+    }
   }
 ]
