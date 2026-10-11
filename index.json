@@ -152,5 +152,39 @@
   {
     "path": "images/b306dbf3108cf2fd0072803e83bab8399143bad9400c1269373a860acb9cc651.png",
     "url": "https://raw.githubusercontent.com/muzukiii/-/main/images/b306dbf3108cf2fd0072803e83bab8399143bad9400c1269373a860acb9cc651.png"
+  },
+  {
+    "type": "face",
+    "id": "277",
+    "data": {
+      "id": "277",
+      "raw": {
+        "faceIndex": 277,
+        "faceText": "/汪汪",
+        "faceType": 2,
+        "packId": null,
+        "stickerId": null,
+        "sourceType": null,
+        "stickerType": null,
+        "resultId": null,
+        "surpriseId": null,
+        "randomType": null,
+        "imageType": null,
+        "pokeType": null,
+        "spokeSummary": null,
+        "doubleHit": null,
+        "vaspokeId": null,
+        "vaspokeName": null,
+        "vaspokeMinver": null,
+        "pokeStrength": null,
+        "msgType": null,
+        "faceBubbleCount": null,
+        "oldVersionStr": null,
+        "pokeFlag": null,
+        "chainCount": null
+      },
+      "resultId": null,
+      "chainCount": null
+    }
   }
 ]
